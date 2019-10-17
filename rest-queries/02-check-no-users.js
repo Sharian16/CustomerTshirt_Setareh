@@ -8,6 +8,6 @@ module.exports = ({ assert, response, store }) => ({
   },
   setup() {
     // Store the mockusers in the db (setup for next step/query)
-    store.mockUsers = require('./mock-users.json');
+    store.mockUsers = require('./mock-users.json.js');
   }
 });

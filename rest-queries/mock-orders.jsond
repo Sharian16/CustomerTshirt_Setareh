@@ -1,0 +1,16 @@
+[
+    {
+     
+        "userId": 1,
+        "packed": 1,
+        "sent": 1,
+        "delivered":1
+    },
+    {
+      
+        "userId": 3,
+        "packed": 1,
+        "sent": 1,
+        "delivered": 1
+    }
+]
