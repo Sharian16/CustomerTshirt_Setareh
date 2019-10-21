@@ -1,16 +1,20 @@
 [
     {
-      
         "productId": 1,
         "orderId": 10,
         "quantity": 1,
-        "text": "hjälp"
+        "text": "hjälp",
+        "share": 0,
+        "material": "bomull",
+        "image": "/imgs/secrethelpmessage.jpg"
     },
     {
-       
         "productId": 1001,
         "orderId": 2,
         "quantity": 1,
-        "text": "Hello"
+        "text": "Hello",
+        "share": 1,
+        "material": "polyster",
+        "image": "/imgs/hello.jpg"
     }
 ]

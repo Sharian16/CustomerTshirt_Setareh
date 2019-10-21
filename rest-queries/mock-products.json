@@ -1,0 +1,30 @@
+[
+    {
+       
+        "ProductName": "Tshirt1",
+        "description": "sport",
+        "discount": "0",
+        "price": 50
+    },
+    {
+       
+        "ProductName": "Tshirt2",
+        "description": "sport2",
+        "discount": "10",
+        "price": 100
+    },
+    {
+     
+        "ProductName": "Tshirt3",
+        "description": "sport3",
+        "discount": "0",
+        "price": 100
+    },
+    {
+       
+        "ProductName": "Tshirt4",
+        "description": "sport4",
+        "discount": "10",
+        "price": 140
+    }
+]
